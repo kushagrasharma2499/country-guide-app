@@ -53,6 +53,7 @@ searchBtn.addEventListener("click", () => {
                   .toString()
                   .split(",")
                   .join(", ")}</span>
+                  //Object.values(data[0].languages).join(", ")
             </div>
         </div>
       `;
